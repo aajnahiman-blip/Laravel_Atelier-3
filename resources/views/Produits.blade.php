@@ -2,7 +2,7 @@
 @section('title','Produits')
 
 @section('content')
-<h2 style="color: rgb(133, 133, 204)">Catégorie : {{ $categorie }}</h2>
+<h2 style="color: rgb(133, 133, 204)"><center>Catégorie : {{ $categorie }}</center></h2>
 
 <table border="1" width="100%" cellpadding="10" style="color: rgb(137, 137, 232)">
     <tr>
